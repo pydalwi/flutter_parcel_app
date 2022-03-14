@@ -36,7 +36,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 child: CircleAvatar(
                   child: ClipOval(
                     child: Image.network(
-                        'https://miro.medium.com/fit/c/1360/1360/2*NDZrabY3uLA-1MM3K1MexQ.png'),
+                        'https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgbin.com%2Fpng%2FnwEAm6ny%2Fcomputer-icons-avatar-png&psig=AOvVaw1O42SfUBT78NP_icR9Ncpm&ust=1647355957423000&source=images&cd=vfe&ved=2ahUKEwjcncem7cX2AhWhXWwGHYuwDIIQjRx6BAgAEAk'),
                   ),
                 ),
               ),
